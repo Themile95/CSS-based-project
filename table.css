@@ -1,0 +1,35 @@
+.division-1 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+header {
+  background-color: black;
+  color: white;
+}
+body {
+  margin: 0;
+  background-color: salmon;
+}
+#float_1 {
+  margin-left: 30px;
+  margin-right: 20px;
+  height: 40px;
+  width: 80px;
+}
+
+#header_1 {
+  color: blue;
+  font-size: 90px;
+}
+
+.tabl3 {
+  height: 400px;
+  width: 900px;
+}
+
+footer {
+  background-color: aqua;
+  color: red;
+  height: 50px;
+}

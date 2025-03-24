@@ -1,0 +1,143 @@
+h2 {
+  display: inline-block;
+  margin-right: 87px;
+  margin-left: 3px;
+}
+header {
+  background-color: black;
+}
+.division_1 {
+  color: white;
+}
+body {
+  background-color: rgb(248, 134, 121);
+  margin: 0;
+}
+#header_1 {
+  margin-right: 20px;
+  font-size: 40px;
+}
+
+.container {
+  position: relative;
+  width: 200px;
+  height: 200px;
+}
+.container_2 {
+  width: 200px;
+  height: 200px;
+}
+.color_box {
+  height: 200px;
+  width: 300px;
+  background-color: red;
+  border: 2px;
+  display: inline-block;
+  top: 0;
+  left: 0;
+  z-index: 1;
+  position: absolute;
+}
+.color_box_2 {
+  height: 70px;
+  width: 110px;
+  border: 2px;
+  background-color: blue;
+  top: 20px;
+  bottom: 20px;
+  display: inline-block;
+  top: 130px;
+  left: 190px;
+  z-index: 2;
+  position: absolute;
+}
+
+.color_box_3 {
+  height: 100px;
+  width: 300px;
+  background-color: red;
+  border: 2px;
+  display: inline-block;
+  top: 185px;
+  left: 350px;
+  z-index: 3;
+  position: absolute;
+}
+
+.color_box_4 {
+  height: 95px;
+  width: 300px;
+  background-color: green;
+  border: 2px;
+  display: inline-block;
+  top: 285px;
+  left: 350px;
+  z-index: 4;
+  position: absolute;
+}
+
+.color_box_5 {
+  height: 203px;
+  width: 180px;
+  background-color: red;
+  border: 2px;
+  display: inline-block;
+  top: 180px;
+  left: 700px;
+  z-index: 5;
+  position: absolute;
+}
+
+.color_box_6 {
+  height: 203px;
+  width: 180px;
+  background-color: yellow;
+  border: 2px;
+  display: inline-block;
+  top: 180px;
+  left: 880px;
+  z-index: 6;
+  position: absolute;
+}
+
+.color_box_7 {
+  height: 70px;
+  width: 255px;
+  background-color: green;
+  border: 2px;
+  display: inline-block;
+  top: 185px;
+  left: 1100px;
+  z-index: 7;
+  position: absolute;
+}
+
+.color_box_8 {
+  height: 60px;
+  width: 255px;
+  background-color: yellow;
+  border: 2px;
+  display: inline-block;
+  top: 255px;
+  left: 1100px;
+  z-index: 8;
+  position: absolute;
+}
+
+.color_box_9 {
+  height: 70px;
+  width: 255px;
+  background-color: red;
+  border: 2px;
+  display: inline-block;
+  top: 315px;
+  left: 1100px;
+  z-index: 9;
+  position: absolute;
+}
+
+.footer_final {
+  bottom: 1000px;
+  background-color: aqua;
+  color: red;
+}

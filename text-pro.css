@@ -1,0 +1,45 @@
+.division-1 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+header {
+  background-color: black;
+  color: white;
+}
+body {
+  margin: 0;
+  background-color: salmon;
+}
+#float_1 {
+  margin-left: 30px;
+  margin-right: 20px;
+}
+
+h1 {
+  font-size: 50px;
+}
+
+#h4_1 {
+  margin-bottom: 10px;
+  color: red;
+}
+
+#h4_2 {
+  margin-bottom: 10px;
+  font-size: 23px;
+}
+
+#h4_3 {
+  letter-spacing: 3px;
+}
+
+#h4_4 {
+  word-spacing: 7px;
+}
+
+footer {
+  background-color: aqua;
+  color: red;
+  height: 40px;
+}
